@@ -15,5 +15,5 @@ tags:
 
 <!--more--> 
 
-Kubernetes resources and "records of intent" are all stored as API objects, and modified via RESTful calls to the API. The API allows configuration to be managed in a declarative way. Users can interact with the Kubernetes API directly, or via tools like `kubectl`. The core Kubernetes API is flexible and can also be extended to support custom resources.
+Kubernetes resources and "records of intent" are all stored as API objects, and modified via RESTful calls to the API. The API allows configuration to be managed in a declarative way. Users can interact with the Kubernetes API directly, or via tools like {{< glossary_tooltip text="`kubectl`" term_id="kubectl" >}}. The core Kubernetes API is flexible and can also be extended to support custom resources.
 
